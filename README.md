@@ -21,3 +21,5 @@ Python版本：3.12.4
 随机数生成：import random  num=andom.randint(1,100)
 
 f-string格式化：f"字符串内容 {变量、算式}字符串";  数字格式化：{变量:.nf} , {变量:m.nf} ; 百分比格式化：{变量:.n%}
+
+2026.5.30：print输出不换行：print（ ,end="） ；for循环：for 临时变量 in 待处理数据集：（空格缩进）循环满足条件时执行的代码
